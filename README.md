@@ -1,4 +1,4 @@
-# stepper-motor
+# servo-motor
 program for working of stepper motor
 
 
